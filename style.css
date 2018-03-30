@@ -19,6 +19,13 @@ h1{
 h2{
     font-family: cursive;
 }
+#extra_website{
+    font-size: larger;
+}
+p{
+    font-size: 30px;
+    font-family: cursive;
+}
 .image{
     border-style: groove;
     border-color: green;
@@ -59,5 +66,3 @@ h2{
     margin-top: 30px;
     font-size: 1.3em;
 }
-
-
